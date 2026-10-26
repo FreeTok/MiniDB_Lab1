@@ -1,0 +1,5 @@
+MINIDB	1
+PK	id
+FIELD	id	INT
+FIELD	name	STRING
+FIELD	version	STRING

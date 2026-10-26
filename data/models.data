@@ -1,0 +1,5 @@
+1	MLP	1.0
+2	CNN	1.0
+3	RandomForest	2.0
+4	ResNet	18
+5	Transformer	1.1

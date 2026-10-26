@@ -1,0 +1,9 @@
+MINIDB	1
+PK	id
+FIELD	id	INT
+FIELD	dataset_id	INT
+FIELD	model_id	INT
+FIELD	accuracy	FLOAT
+FIELD	status	STRING
+FK	dataset_id	datasets	id
+FK	model_id	models	id

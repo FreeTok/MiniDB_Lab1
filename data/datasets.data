@@ -1,0 +1,5 @@
+1	MNIST	classification	70000
+2	CIFAR-10	classification	60000
+3	Iris	classification	150
+4	Fashion-MNIST	classification	70000
+5	IMDB	sentiment	50000
